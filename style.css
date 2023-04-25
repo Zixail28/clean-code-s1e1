@@ -4,21 +4,21 @@ body {
     color: #333;
     font-family: Lato, sans-serif;
 }
-.aaa {
+.main-inf {
     width: 500px;
     margin: 0 auto;
     display: block;
     text-align: right;
 }
-.aaa img {
+.main-inf img {
     width: 100%;
 }
-.aaa .more-inf {
+.main-inf .more-inf {
     font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-.aaa { text-align: center;
+.main-inf { text-align: center;
 }
 }
 .centered-main-page-element {
@@ -73,7 +73,7 @@ input[type="text"] {
     line-height: 18px;
     height: 21px;
     padding: 0 9px;
-    border: 1px solid #dDd;
+    border: 1px solid #ddd;
     background: #FFF;
     border-radius: 6px;
     font-family: Lato, sans-serif;
